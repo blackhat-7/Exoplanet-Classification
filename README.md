@@ -8,6 +8,8 @@ rajat18078@iiitd.ac.in
 
 ![image](https://github.com/blackhat-7/Exoplanet-Classification/blob/main/Plots/PlantHabitability_Vs_PlanetESI.png?raw=true)
 
+
+## Summary
 &nbsp;&nbsp;&nbsp;&nbsp; Existing work on characterizing exoplanets are based on assigning habitability scores to each planet which allows for a quantitative comparison with Earth. Over the past two decades, discoveries of exoplanets have poured in by the hundreds and the rate at which exoplanets are being discovered is increasing the actual number of planets exceeding the number of stars in our galaxy by orders of magnitude. 
 &nbsp The  research  is  based  on  classifying  exoplanets  as  Habitable  and  Non-Habitable. The  research  uses  the  datasetprovided by NASA’s Exoplanet Archives which is from the TESS satellite.  We tried various preprocessing techniques and classifiers along with it such as KNN (K-Nearest Neigh-bors),  Hard-Boundary, SVM (Support  Vector  Machines) and,  Tree  based  classifiers  like  Random  Forests  and  en-semble classifiers like XGBoost to thoroughly analyze whatworks best for this domain.
 
