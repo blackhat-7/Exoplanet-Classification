@@ -1,10 +1,9 @@
 # Exoplanet Classification
 
-Shaunak Pal Abhinav Suresh Ennazhiyil Rajat Prakash
+Shaunak Pal Abhinav Suresh Ennazhiyi
 
 shaunak18098@iiitd.ac.in
 abhinav18003@iiitd.ac.in
-rajat18078@iiitd.ac.in
 
 ![image](https://github.com/blackhat-7/Exoplanet-Classification/blob/main/Plots/PlantHabitability_Vs_PlanetESI.png?raw=true)
 
