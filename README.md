@@ -1,10 +1,4 @@
 # Exoplanet Classification
-
-Shaunak Pal Abhinav Suresh Ennazhiyi
-
-shaunak18098@iiitd.ac.in
-abhinav18003@iiitd.ac.in
-
 ![image](https://github.com/blackhat-7/Exoplanet-Classification/blob/main/Plots/PlantHabitability_Vs_PlanetESI.png?raw=true)
 
 
@@ -16,3 +10,7 @@ abhinav18003@iiitd.ac.in
 &nbsp;&nbsp;&nbsp;&nbsp; Almost  all  the  models  which  were  tested  have  90%+  accuracy with Earth Similarity Index as the most important feature. After doing Grid search over a lot of hyper param-eters for a lot of models we concluded that support vectormachines perform the best with f1 scores close to 98.9%, whereas tree based algorithms did not fare that well with f1 scores just below 90% which is not that bad and we made sure that at least all habitable planets get classified rightly. This shows that this problem statement can easily be solved by machine learning methods and can give astronomers ahuge insight into how to classify the habitable exoplanets comfortably.
 
 &nbsp;&nbsp;&nbsp;&nbsp; The models and plots are stored in their folders respectively and the jupyter file is attached as well. Our project report is also attached that consists of all the work done.
+
+## Contributors
+- [Shaunak Pal](https://github.com/blackhat-7)
+- [Abhinav Suresh Ennazhiyil](https://github.com/AbhinavSE)
